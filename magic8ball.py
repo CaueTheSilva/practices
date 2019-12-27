@@ -1,3 +1,7 @@
+"""
+Next updates: Object oriented approach, progress bar
+"""
+
 import time
 import random
 
